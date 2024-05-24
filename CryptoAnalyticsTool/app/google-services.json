@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "126216519873",
+    "project_id": "crypto-analytics-tool",
+    "storage_bucket": "crypto-analytics-tool.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126216519873:android:47977134e59cebaeb11440",
+        "android_client_info": {
+          "package_name": "com.saga.cryptoanalyticstool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126216519873-8j4mlffs87mdi8ckidact154le24n2of.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMniUEzUY51sfnAX7wTSmDVUD7fo9yhws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126216519873-8j4mlffs87mdi8ckidact154le24n2of.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

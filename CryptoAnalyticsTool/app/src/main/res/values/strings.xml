@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Crypto Analytics Tool</string>
+    <string name="welcome">Welcome</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="signUpText">Don\'t have account? Sign Up</string>
+    <string name="login">Log In</string>
+    <string name="signup">Sign Up</string>
+    <string name="loginText">Already have an account? Log In</string>
+    <string name="cnfPassword">Confirm Password</string>
+    <string name="phoneNumber">Phone</string>
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="Logout">Log Out</string>
+    <string name="coin">COIN</string>
+    <string name="transaction_id">Transaction Id</string>
+</resources>
